@@ -1,0 +1,8 @@
+# Latin-1 Supplement (accented letters only)
+
+# See http://www.unicode.org/charts/PDF/U0080.pdf
+
+version "1.0"
+
+224-246
+248-255

@@ -1,0 +1,29 @@
+# See http://www.norid.no/domeneregistrering/idn/idn_nyetegn.html
+
+version "1.0"
+tld no
+
+0x0E1 # a med akutt aksent / á 00E1
+0x0E0 # a med gravis-aksent / à 00E0
+0x0E4 # a med omlyd / ä 00E4
+0x10D # c med caron
+0x0E7 # c med cedille / ç 00E7
+0x111 # d med strek
+0x0E9 # e med akutt aksent / é
+0x0E8 # e med gravis-aksent / è
+0x0EA # e med circumflex-aksent / ê
+0x14B # eng
+0x144 # n med akutt aksent
+0x0F1 # n med tilde / ñ
+0x0F3 # o med akutt aksent / ó
+0x0F2 # o med gravis-aksent / ò
+0x0F4 # o med circumflex-aksent / ô
+0x0F6 # o med omlyd / ö
+0x161 # s med caron
+0x167 # t med strek
+0x0FC # u med omlyd / ü
+0x17E # z med caron
+0x0E6 # æ
+0x0F8 # ø
+0x0E5 # å
+

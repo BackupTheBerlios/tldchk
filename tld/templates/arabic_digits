@@ -1,0 +1,8 @@
+# Arabic Digits
+
+# See http://www.unicode.org/charts/PDF/U0600.pdf
+
+version "1.0"
+
+0x660-0x669
+

@@ -1,0 +1,12 @@
+# See http://www.nic.at/en/service/idn/iz_zeichentabelle.asp
+#  and http://www.nic.at/de/news/news/nw_news.asp?Key=688&Typ=100
+
+version "1.0"
+tld at
+
+include "templates/latin_1_supplement_letters"
+
+0x153
+0x161
+0x17E
+

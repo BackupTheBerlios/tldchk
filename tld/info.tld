@@ -1,0 +1,10 @@
+# See http://www.nic.info/news/press_releases/pr_articles/2004-01-27-01
+
+version "1.0"
+tld info
+
+# German extra characters
+0xE4 # &auml;
+0xF6 # &ouml;
+0xFC # &uuml;
+

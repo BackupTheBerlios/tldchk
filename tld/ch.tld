@@ -1,0 +1,7 @@
+# See http://www.switch.ch/id/idn/chars.html
+
+version "1.0"
+tld ch
+
+include "templates/latin_1_supplement_letters"
+

@@ -1,0 +1,9 @@
+# Arabic Letters (ISO 8859-6)
+
+# See http://www.unicode.org/charts/PDF/U0600.pdf
+
+version "1.0"
+
+0x621-0x63A
+0x641-0x64A
+

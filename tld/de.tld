@@ -1,0 +1,8 @@
+# See http://www.denic.de/de/domains/idns/liste.html
+
+version "1.0"
+tld de
+
+include "templates/latin_1_supplement_letters"
+include "templates/latin_extended_a_letters"
+
