@@ -1,0 +1,15 @@
+# Copyright (C) 2003-2004 Thomas Jacob, Internet24.de
+
+# Copying and distribution of this file, with or without modification,
+# are permitted in any medium without royalty provided the copyright
+# notice, this notice and the source URL list below are preserved.
+
+# See http://www.nic.info/news/press_releases/pr_articles/2004-01-27-01
+
+version "1.0"
+tld info
+
+# German extra characters
+U+00E4 # &auml;
+U+00F6 # &ouml;
+U+00FC # &uuml;
