@@ -6,7 +6,7 @@
 
 # Thanks to Wayne Beaver of Afilias for providing this data.
 
-# See http://www.pir.org/faqs/idn_registrant_faq
+# See http://www.pir.org/GetAORG/FAQ-IDN.aspx
 
 version "1.1"
 tld org
